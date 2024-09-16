@@ -1,0 +1,72 @@
+[17сент.2024 00:07:49.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WoRT912 lost connection: Disconnected
+[17сент.2024 00:07:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 left the game
+[17сент.2024 00:17:00.371] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WoRT912 is 140fd170-6ad3-4aea-824a-df722323be74
+[17сент.2024 00:17:11.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WoRT912[/[2620:9b::1939:6de6]:60023] logged in with entity id 12908 at (4097.789808985735, 68.0, 1.8339856355774211)
+[17сент.2024 00:17:12.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 joined the game
+[17сент.2024 00:17:12.543] [Server thread/INFO] [Jade/]: Syncing config to WoRT912 (140fd170-6ad3-4aea-824a-df722323be74)
+[17сент.2024 00:21:40.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [Diamonds!]
+[17сент.2024 00:23:16.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [Storage Upgrade!]
+[17сент.2024 00:32:13.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [Ice Bucket Challenge]
+[17сент.2024 00:33:29.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 has made the advancement [A Metallur-what?]
+[17сент.2024 00:33:47.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 has made the advancement [The Alloy That Started it All]
+[17сент.2024 00:34:08.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [The Alloy That Started it All]
+[17сент.2024 00:40:05.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [The power of the sun!]
+[17сент.2024 00:40:05.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [Condense the world!]
+[17сент.2024 00:49:42.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 has made the advancement [Tricking a Rock Into Thinking]
+[17сент.2024 00:54:29.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SerjTheBog moved too quickly! -11.906569057903653,59.464076711362544,17.266572103029127
+[17сент.2024 00:54:29.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SerjTheBog moved too quickly! -11.906569057903653,59.464076711362544,17.266572103029127
+[17сент.2024 00:54:29.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SerjTheBog moved too quickly! -11.906569057903653,59.464076711362544,17.266572103029127
+[17сент.2024 00:54:29.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SerjTheBog moved too quickly! -11.906569057903653,59.464076711362544,17.266572103029127
+[17сент.2024 00:54:29.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SerjTheBog moved too quickly! -11.906569057903653,59.464076711362544,17.266572103029127
+[17сент.2024 00:54:29.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has reached the goal [Strong or Careful]
+[17сент.2024 00:54:29.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog fell from a high place
+[17сент.2024 00:54:29.166] [Server thread/INFO] [tombstone/]: The player SerjTheBog has successfully been saved
+[17сент.2024 01:00:28.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 has made the advancement [Hearty Meal]
+[17сент.2024 01:14:51.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 has made the advancement [Hot Stuff]
+[17сент.2024 01:15:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 has made the advancement [The Perfect Foundation]
+[17сент.2024 01:16:29.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 has made the advancement [Getting More From Less]
+[17сент.2024 01:17:34.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 has made the advancement [Infusing Efficiency]
+[17сент.2024 01:18:20.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [Infusing Efficiency]
+[17сент.2024 01:28:16.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [We Need to Go Deeper]
+[17сент.2024 01:29:12.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 has made the advancement [What a Deal!]
+[17сент.2024 01:30:02.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [Neighborhood Brawl]
+[17сент.2024 01:45:41.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [Tricking a Rock Into Thinking]
+[17сент.2024 01:46:17.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has reached the goal [The Factory Must Grow!]
+[17сент.2024 01:54:06.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 has made the advancement [Industrial Revolution]
+[17сент.2024 02:16:00.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 has made the advancement [Configure Everything]
+[17сент.2024 02:23:14.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [Ambush]
+[17сент.2024 02:23:14.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [Monster Hunter]
+[17сент.2024 02:23:14.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog has made the advancement [A Strange Grave Dust]
+[17сент.2024 02:36:23.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SerjTheBog lost connection: Disconnected
+[17сент.2024 02:36:23.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SerjTheBog left the game
+[17сент.2024 02:36:37.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WoRT912 lost connection: Disconnected
+[17сент.2024 02:36:37.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WoRT912 left the game
+[17сент.2024 02:36:47.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17сент.2024 02:36:47.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17сент.2024 02:36:47.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17сент.2024 02:36:47.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17сент.2024 02:36:48.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17сент.2024 02:36:48.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[17сент.2024 02:36:48.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17сент.2024 02:36:48.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17сент.2024 02:36:48.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[17сент.2024 02:36:48.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mythicbotany:alfheim
+[17сент.2024 02:36:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[17сент.2024 02:36:48.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[17сент.2024 02:36:48.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[17сент.2024 02:36:48.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17сент.2024 02:36:48.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[17сент.2024 02:36:48.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17сент.2024 02:36:48.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17сент.2024 02:36:48.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[17сент.2024 02:36:48.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
+[17сент.2024 02:36:48.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[17сент.2024 02:36:48.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[17сент.2024 02:36:48.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[17сент.2024 02:36:48.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17сент.2024 02:36:48.727] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[17сент.2024 02:36:48.732] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Unloading EnderTank Data
+[17сент.2024 02:36:48.732] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Finished Unloading EnderTank Data
+[17сент.2024 02:36:48.742] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
+[17сент.2024 02:36:48.742] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
+[17сент.2024 02:36:48.820] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
